@@ -1,21 +1,25 @@
 {
-  "name": "swaggerize-routes",
+  "name": "swaggerize-routes-ts",
   "version": "1.0.11",
-  "author": "Trevor Livingston <trlivingston@paypal.com>",
+  "author": "Tomasz Pierzchała",
   "contributors": [
     {
       "name": "Francois-Guillaume Ribreau",
       "email": "npm@fgribreau.com",
       "url": "http://fgribreau.com/"
+    },
+    {
+      "name": "Trevor Livingston",
+      "email": "trlivingston@paypal.com"
     }
   ],
-  "description": "Swagger based route building.",
+  "description": "Swagger based route building, allowing use of .ts files.",
   "main": "./lib/index",
   "repository": {
     "type": "git",
-    "url": "git://github.com/krakenjs/swaggerize-builder.git"
+    "url": "git://github.com/pierzchalatomasz/swaggerize-routes.git"
   },
-  "bugs": "http://github.com/krakenjs/swaggerize-builder/issues",
+  "bugs": "http://github.com/pierzchalatomasz/swaggerize-routes/issues",
   "engines": {
     "node": "<=4.x"
   },
